@@ -1,0 +1,6 @@
+{
+  "name": "SynapsePlan - AI Student Study Planner & Peer Focus OS",
+  "description": "Smart study planner for students with automated revision schedules, exam deadline alerts, peer focus rooms, and AI-driven productivity insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
